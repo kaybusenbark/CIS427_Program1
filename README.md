@@ -1,7 +1,7 @@
 in terminal one
 gcc server.cpp sqlite3.c -o server -lpthread -ldl
 
-in therminal two
+in terminal two
 gcc client.cpp -o client 
 
 in terminal one 
